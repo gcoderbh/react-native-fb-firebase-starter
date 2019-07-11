@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "434176455713",
+    "firebase_url": "https://teststart-67f9d.firebaseio.com",
+    "project_id": "teststart-67f9d",
+    "storage_bucket": "teststart-67f9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434176455713:android:2cf6b8bc861bb364",
+        "android_client_info": {
+          "package_name": "com.reactnativefbfirebasestarter.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434176455713-9a1ei5l95u8h9sv0p4noej7fmrr9hos9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU3v9um-a9VHCBUHwabwlhGJoZTTNNcJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434176455713-9a1ei5l95u8h9sv0p4noej7fmrr9hos9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "434176455713-gcfajv1mgetrutsnvvp254f4gm515rp9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactnativefbfirebasestarter.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
